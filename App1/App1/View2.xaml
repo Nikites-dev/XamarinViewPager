@@ -7,22 +7,365 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
-                <Frame>
-                    <RadioButton/>
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+                            
+                        </StackLayout>
+
+                    </StackLayout>
                 </Frame>
 
-                <Frame Background="green">
-                    <StackLayout Orientation="Horizontal">
-                        <StackLayout Background="red">
-                            <Label Text="Hello"/>
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
                         </StackLayout>
 
-                        <StackLayout Background="red">
-                            <Label Text="Hello"/>
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
                         </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
                     </StackLayout>
-                    
+                </Frame>
 
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame  Padding="0">
+                    <StackLayout Orientation="Horizontal" Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label Text="image1"/>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Title" FontSize="18"/>
+                            <Label Text="summary"/>
+                        </StackLayout>
+
+                        <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand">
+                            <Label Text="12:22" FontSize="12"/>
+
+                        </StackLayout>
+
+                    </StackLayout>
                 </Frame>
 
             </StackLayout>
