@@ -4,12 +4,14 @@
              xmlns:app1="clr-namespace:App1;assembly=App1"
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              android:TabbedPage.ToolbarPlacement="Bottom"
+             
+            
              x:Class="App1.MainPage">
 
     <TabbedPage.Children>
-        <app1:View1/>
-        <app1:View2/>
-        <app1:View3/>
+        <app1:View1 IconImageSource="user.png"/>
+        <app1:View2 IconImageSource="list.png"/>
+        <app1:View3 IconImageSource="option.png"/>
       
     </TabbedPage.Children>
 
