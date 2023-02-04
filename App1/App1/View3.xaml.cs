@@ -10,11 +10,12 @@ using Xamarin.Forms.Xaml;
 namespace App1
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class FlyoutPage1Detail : ContentPage
+    public partial class View3 : ContentPage
     {
-        public FlyoutPage1Detail()
+        public View3()
         {
             InitializeComponent();
+
         }
     }
 }
